@@ -1,1 +1,5 @@
-我是一个粉刷匠
+public class Test(){
+    public void method1(){
+        "缁存姢"
+        }
+}
