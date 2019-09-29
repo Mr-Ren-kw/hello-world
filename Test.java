@@ -1,5 +1,5 @@
 public class Test(){
 	public static void main(System[] args){
-		System.out.println("水水水水买买买");
+		System.out.println("鎴戠埍涓崕");
 	}
 }
