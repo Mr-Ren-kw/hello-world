@@ -1,6 +1,1 @@
-public class Test(){
-	public static void main(System[] args){
-		System.out.println("鎴戠埍涓崕");
-		System.out.println("鎴戠埍涓浗");
-	}
-}
+我是一个粉刷匠
