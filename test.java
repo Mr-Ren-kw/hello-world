@@ -1,1 +1,3 @@
-我是一个粉刷匠
+public class Test {
+
+}
